@@ -12,3 +12,6 @@
 
 <p>Selecionamos nossos produtos com cuidado prezando as marcas de mais qualidade, atualizamos frequentemente nossos produtos de acordo com os padrões da moda atuais tentando evitar as roupas mais "bregas".</p>
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis:</p>
+
+<h3><strong>Camisas;</strong></h3>
+<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-preta-masculina-sociedade1-bbce4558e1813190f316261103823369-1024-1024.png" />
