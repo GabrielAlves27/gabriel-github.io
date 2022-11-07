@@ -10,3 +10,4 @@
 
 <h1>Nossos produtos:</h1>
 
+<p>Selecionamos nossos produtos com cuidado prezando as melhores marcas e as de mais qualidade, atualizamos frequentemente nossos produtos de acordo com os padrões da moda atuais tentando evitar as coisas "bregas". Agora iremos apresentar nossos produtos;</p>
