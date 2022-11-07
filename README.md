@@ -1,5 +1,6 @@
 # Lojas Gabi
 
+<img src="https://cdn.shopify.com/s/files/1/0657/1166/9480/files/gabi-lojas99.png?v=1659587005&width=250" />
 
 <h1>Sobre o Loja do Gabi:</h1>
 
