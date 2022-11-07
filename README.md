@@ -2,8 +2,8 @@
 
 <h1>Sobre as Lojas:</h1>
 
-<p>Localizada em prudentopólis a <strong>Loja do Gabi</strong> traz para do mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, nossa loja já é destaque na cidade e conquista novos clientes a cada dia.</p>
+<p>Localizada em prudentopólis a <strong>Loja do Gabi</strong> traz para do mercado o que há de melhor para o estilo e conforto. Fundada em 1997, nossa loja já é destaque na cidade e conquista novos clientes a cada dia com uma grande variedade de "looks" para escolher.</p>
 
-<p><em>Nossa missão é: <strong>"Proporcionar qualidade nas compras e uma alta estimativa de vida aos produtos".</strong></em></p>
+<p><em>Nossa missão e nosso slogan é: <strong>"Qualidade nas compras e duração nas roupas".</strong></em></p>
 
-<p>Oferecemos profissionais experientes e antenados para trabalhar conosco. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+<p>Oferecemos profissionais experientes e antenados para trabalhar conosco. O atendimento possui alto padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
