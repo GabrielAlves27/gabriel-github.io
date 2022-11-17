@@ -14,4 +14,4 @@
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis:</p>
 
 <h3><strong>Camisas;</strong></h3>
-<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-preta-masculina-sociedade1-bbce4558e1813190f316261103823369-1024-1024.png" />
+<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-branca-masculina-alter-ego1-be6ccf12249a7f993616535000714156-320-0.png" />
