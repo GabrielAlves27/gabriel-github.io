@@ -14,4 +14,4 @@
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
 <h3><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png"/><strong>Camisas:</strong></h3>
-<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-branca-masculina-alter-ego1-be6ccf12249a7f993616535000714156-320-0.png" />
+<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-branca-masculina-alter-ego1-be6ccf12249a7f993616535000714156-320-0.png" /><img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-masculina-preta-581-19f3fef94e5f34a0a216526630699887-320-0.png" />
