@@ -14,4 +14,4 @@
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
 <h3><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png"/><strong>Camisas:</strong></h3>
-<img src="file:///home/professor/Downloads/Collage%20Maker-17-Nov-2022-07.48-AM.jpg" />
+<img src="https://www.photojoiner.net/shared-images/6376116b6dfc70318a553ed0" />
