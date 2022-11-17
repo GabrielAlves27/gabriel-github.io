@@ -11,7 +11,7 @@
 <h1>Nossos produtos:</h1>
 
 <p>Selecionamos nossos produtos com cuidado prezando as marcas de mais qualidade, atualizamos frequentemente nossos produtos de acordo com os padrões da moda atuais tentando evitar as roupas mais "bregas".</p>
-<p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis:</p>
+<p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
-<h3><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png"/><strong>Camisas</strong></h3>
+<h3><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png"/><strong>Camisas:</strong></h3>
 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-branca-masculina-alter-ego1-be6ccf12249a7f993616535000714156-320-0.png" />
