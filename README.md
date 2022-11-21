@@ -16,24 +16,24 @@
 <h2><strong>Vestimentas:</strong></h2>
 
 <details>
-    <summary><strong><h3>Camisas</h3></strong></summary>  
+    <summary><strong><h1>Camisas</h1></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
-            <figure style="text-align:center; flex:1;">
+            <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-preta-masculina-521-0ebabb255a5be846e116620511335661-1024-1024.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
             </figure>
-            <figure style="text-align:center; flex:1;">
+            <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-masculina-preta-nightmares1-ff7cab84d8bea8078816360381449142-1024-1024.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             </figure>
         </div>
 
 </details>&nbsp;
 <details>
-    <summary><strong><h3>Blusas</h3></strong></summary>  
+    <summary><strong><h1>Blusas</h1></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/moletom-branco-feminino-wadokei1-6eb921b24e3fc07a7e16179998399243-1024-1024.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
             </figure>
-            <figure style="text-align:center; flex:1;">
+            <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/blusao-feminino-preto-101-c301cdf66a7f13945216432399469680-1024-1024.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             </figure>
         </div>
