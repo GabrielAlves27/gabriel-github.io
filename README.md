@@ -14,7 +14,8 @@
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
 <h2><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png"/><strong>Camisas:</strong></h2>
-<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-masculina-cinza-2131-49d1c879d0a7961c2716620512691925-320-0.jpg" />
+<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-masculina-cinza-2131-49d1c879d0a7961c2716620512691925-320-0.jpg" >
+<img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-branca-masculina-241-f2fb5af5bec583d1b716620527748597-320-0.jpg" />
 
 
 
