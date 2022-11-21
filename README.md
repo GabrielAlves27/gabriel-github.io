@@ -13,10 +13,8 @@
 <p>Selecionamos nossos produtos com cuidado prezando as marcas de mais qualidade, atualizamos frequentemente nossos produtos de acordo com os padrões da moda atuais tentando evitar as roupas mais "bregas".</p>
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
-<h2><strong>Vestimentas:</strong></h2>
-
 <details>
-    <summary><strong><h1>Camisas</h1></strong></summary>  
+    <strong><h2>Camisas</h2></strong>
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-preta-masculina-521-0ebabb255a5be846e116620511335661-1024-1024.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
@@ -28,7 +26,7 @@
 
 </details>&nbsp;
 <details>
-    <summary><strong><h1>Blusas</h1></strong></summary>  
+    <summary><strong><h2>Blusas</h2></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/moletom-branco-feminino-wadokei1-6eb921b24e3fc07a7e16179998399243-1024-1024.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
