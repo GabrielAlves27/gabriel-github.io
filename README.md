@@ -19,10 +19,10 @@
     <summary><strong><h3>Camisas</h3></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:1;">
-                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-branca-masculina-241-f2fb5af5bec583d1b716620527748597-320-0.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-preta-masculina-521-0ebabb255a5be846e116620511335661-1024-1024.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
             </figure>
             <figure style="text-align:center; flex:1;">
-                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-masculina-cinza-2131-49d1c879d0a7961c2716620512691925-320-0.jpg" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-masculina-preta-nightmares1-ff7cab84d8bea8078816360381449142-1024-1024.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             </figure>
         </div>
 
