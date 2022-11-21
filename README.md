@@ -30,11 +30,11 @@
 <details>
     <summary><strong><h3>Blusas</h3></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
-            <figure style="text-align:center; flex:1;">
-                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-branca-masculina-241-f2fb5af5bec583d1b716620527748597-320-0.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
+            <figure style="text-align:center; flex:0;">
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/moletom-branco-feminino-wadokei1-6eb921b24e3fc07a7e16179998399243-1024-1024.png" alt= "Summit Lake - Charles Donlea" width="200px"/>
             </figure>
             <figure style="text-align:center; flex:1;">
-                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-masculina-cinza-2131-49d1c879d0a7961c2716620512691925-320-0.jpg" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/blusao-feminino-preto-101-c301cdf66a7f13945216432399469680-1024-1024.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="200px"/>
             </figure>
         </div>
 
