@@ -13,7 +13,7 @@
 <p>Selecionamos nossos produtos com cuidado prezando as marcas de mais qualidade, atualizamos frequentemente nossos produtos de acordo com os padrões da moda atuais tentando evitar as roupas mais "bregas".</p>
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
-<h2><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png"/><strong>Camisas:</strong></h2>
+<h2><strong>Vestimentas:</strong></h2>
 
 <details>
     <summary><strong>Camisas<img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png" /></strong></summary>  
