@@ -16,7 +16,7 @@
 <h2><strong>Vestimentas:</strong></h2>
 
 <details>
-    <summary><strong><img src="https://img.icons8.com/material-outlined/24/null/t-shirt.png" /></strong></summary>  
+    <summary><strong><h3>Camisas</h3></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:1;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-branca-masculina-241-f2fb5af5bec583d1b716620527748597-320-0.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
@@ -28,7 +28,7 @@
 
 </details>&nbsp;
 <details>
-    <summary><strong><img src="https://img.icons8.com/metro/26/null/fireman-coat.png" /></strong></summary>  
+    <summary><strong><h3>Blusas</h3></strong></summary>  
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:1;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-raglan-branca-masculina-241-f2fb5af5bec583d1b716620527748597-320-0.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
