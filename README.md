@@ -14,7 +14,7 @@
 <p><strong>Agora</strong> iremos apresentar um pouco dos nossos produtos disponíveis</p>
 
 <details>
-    <strong><h2>Camisas</h2></strong>
+    <summary><strong><h2>Camisas</h2></strong></summary>
         <div style="display: flex; justify-content:space-between;">
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-preta-masculina-521-0ebabb255a5be846e116620511335661-1024-1024.jpg" alt= "Summit Lake - Charles Donlea" width="200px"/>
