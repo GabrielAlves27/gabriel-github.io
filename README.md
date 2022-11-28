@@ -55,7 +55,16 @@
 
 </details>&nbsp;
 
-
+<h3>Alem disso nos temos:</h3>
+<ul>
+<li>Chapéus</li>
+<li>Calçados</li>
+<li>Calças</li>
+<li>Oculos</li>
+<li>Cintos
+<li>Aneis
+</ul>
+<p>E muito mais!</p>
 
 
 
