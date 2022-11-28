@@ -57,12 +57,12 @@
 
 <h3>Alem disso nos temos:</h3>
 <ul>
-<li><h2>Chapéus</h2></li>
-<li><h2>Calçados</h2></li>
-<li><h2>Calças</h2></li>
-<li><h2>Oculos</h2></li>
-<li><h2>Cintos</h2></li>
-<li><h2>Aneis</h2></li>
+<li><p3>Chapéus</p3></li>
+<li><p3>Calçados</p3></li>
+<li><p3>Calças</p3></li>
+<li><p3>Oculos</p3></li>
+<li><p3>Cintos</p3></li>
+<li><p3>Aneis</p3></li>
 </ul>
 <p>E <strong>muito mais!</strong></p>
 
