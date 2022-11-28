@@ -57,7 +57,7 @@
 
 <h1>Alem disso nos temos:</h1>
 <ul>
-<li><h3>Chapéus</h3></li>
+<li><em><h3>Chapéus</h3></em></li>
 <li><h3>Calçados</h3></li>
 <li><h3>Calças</h3></li>
 <li><h3>Oculos</h3></li>
