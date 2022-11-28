@@ -22,10 +22,9 @@
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/camiseta-masculina-preta-nightmares1-ff7cab84d8bea8078816360381449142-1024-1024.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="300px"/>
             </figure>
+            <h3>R$ 35,99 Cada</h3>
         </div>
     
-    <h3>R$:</strong> 35,99 Cada</h3>
-
 </details>&nbsp;
 <details>
     <summary><strong><h2>Blusas</h2></strong></summary>  
