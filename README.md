@@ -24,7 +24,7 @@
             </figure>
         </div>
     
-    <h4><strong>R$:</strong> 35,99 Cada</h4>
+    <h3>R$:</strong> 35,99 Cada</h3>
 
 </details>&nbsp;
 <details>
