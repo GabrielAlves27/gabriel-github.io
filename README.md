@@ -38,6 +38,20 @@
 
 </details>&nbsp;
 
+</details>&nbsp;
+<details>
+    <summary><strong><h2>Regatas</h2></strong></summary>  
+        <div style="display: flex; justify-content:space-between;">
+            <figure style="text-align:center; flex:0;">
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/regata-masculina-preta-211-2aff2f0647b7685ed416620512754352-1024-1024.jpg" alt= "Image" width="300px"/>
+            </figure>
+            <figure style="text-align:center; flex:0;">
+                <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/regata-branca-feminina-2011-69eff74c14405cf06d16609242507949-1024-1024.jpg" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="300px"/>
+            </figure>
+        </div>
+
+</details>&nbsp;
+
 
 
 
