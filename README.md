@@ -64,7 +64,7 @@
 <li>Cintos
 <li>Aneis
 </ul>
-<p>E muito mais!</p>
+<p>E <strong>muito mais!</strong></p>
 
 
 
