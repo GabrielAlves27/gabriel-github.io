@@ -35,6 +35,7 @@
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/blusao-feminino-preto-101-c301cdf66a7f13945216432399469680-1024-1024.png" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="300px"/>
             </figure>
+            <h3>R$ 45,99 Cada</h3>
         </div>
 
 </details>&nbsp;
@@ -49,6 +50,7 @@
             <figure style="text-align:center; flex:0;">
                 <img src="https://d3ugyf2ht6aenh.cloudfront.net/stores/974/635/products/regata-branca-feminina-2011-69eff74c14405cf06d16609242507949-1024-1024.jpg" alt= "Confident Data Skills - Kirill Eremenko" alt="Confident Data Skills" width="300px"/>
             </figure>
+            <h3>R$ 29,99 Cada</h3>
         </div>
 
 </details>&nbsp;
