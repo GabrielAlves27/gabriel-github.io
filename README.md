@@ -64,7 +64,7 @@
 <li><h3>Cintos</h3></li>
 <li><h3>Aneis</h3></li>
 </ul>
-<p>E <strong>muito mais!</strong></p>
+<p>E <strong>muito mais!</strong> para te oferecer.</p>
 
 
 
