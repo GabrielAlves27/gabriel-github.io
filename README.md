@@ -55,7 +55,7 @@
 
 </details>&nbsp;
 
-<h3>Alem disso nos temos:</h3>
+<h1>Alem disso nos temos:</h1>
 <ul>
 <li><h3>Chapéus</h3></li>
 <li><h3>Calçados</h3></li>
