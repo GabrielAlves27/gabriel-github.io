@@ -67,6 +67,9 @@
 <p>E <strong>muito mais!</strong> para te oferecer, nós prezamos qualidade sobre quantidade, mais isto não significa que temos baixo estoque. Nossa loja é composta de várias vestimentas para você e para sua família, com uma variedade extrema de acessórios.
 Venha já para as lojas gabi, e se divirta de montão.</p>
 
+
+
+
 <p><strong>© 1997-2022 Gabi Lojas. Todos Os Direitos Reservados</p></strong>
 
 
